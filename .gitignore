@@ -1,0 +1,7 @@
+# Ignore virtual environments
+sentiment-env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
